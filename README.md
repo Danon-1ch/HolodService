@@ -8,7 +8,7 @@
 ![minSdk](https://img.shields.io/badge/minSdk-26-3DDC84)
 ![version](https://img.shields.io/badge/version-1.0-0F766E)
 
-**[Скачать APK](apk/HolodService-1.0-debug.apk)** · **[Демо-видео, 1:25](media/demo.mp4)** · **[Скриншоты](docs/screenshots)**
+**[Скачать APK](apk/HolodService-1.01-debug.apk)** · **[Демо-видео, 1:25](media/demo.mp4)** · **[Скриншоты](docs/screenshots)**
 
 <a href="media/demo.mp4"><img src="docs/demo-preview.png" width="300" alt="Смотреть демо"></a>
 
@@ -101,7 +101,7 @@ gradlew.bat assembleDebug
 
 ## Установка APK
 
-1. Скачайте [`apk/HolodService-1.0-debug.apk`](apk/HolodService-1.0-debug.apk).
+1. Скачайте [`apk/HolodService-1.01-debug.apk`](apk/HolodService-1.01-debug.apk).
 2. Разрешите установку из неизвестных источников.
 3. Установите приложение и войдите под одной из демо-учётных записей.
 
